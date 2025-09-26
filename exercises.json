@@ -1,0 +1,25 @@
+{
+  "Breathing_478": {
+    "title": "4-7-8 Breathing",
+    "steps": [
+      "1. Exhale completely through your mouth.",
+      "2. Close your mouth and inhale quietly through your nose for a count of 4.",
+      "3. Hold your breath for a count of 7.",
+      "4. Exhale completely through your mouth with a whoosh sound for a count of 8.",
+      "Repeat the cycle 3-4 times."
+    ],
+    "target_moods": ["Angry", "Fear", "Stressed", "Anxious"]
+  },
+  "Grounding_54321": {
+    "title": "5-4-3-2-1 Grounding Technique",
+    "steps": [
+      "1. Name **5** things you can **see**.",
+      "2. Name **4** things you can **feel** (texture, clothing).",
+      "3. Name **3** things you can **hear**.",
+      "4. Name **2** things you can **smell**.",
+      "5. Name **1** thing you can **taste** (or wish you could).",
+      "This helps bring focus back to the present moment."
+    ],
+    "target_moods": ["Fear", "Anxious", "Overwhelmed"]
+  }
+}
